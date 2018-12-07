@@ -10,6 +10,7 @@ public class No696 {
         int preRun = 0;
         int curRun =1;
         int count = 0;
+        //
         for (int i = 1; i < s.length(); i++){
             if (s.charAt(i) == s.charAt(i-1)) {
                 curRun++;
