@@ -10,8 +10,8 @@ public class Maximum_Width_Ramp {
         int max = 0;
         for (int i = 1; i < len; i++) {
             for (int j = 0; j < i; j++) {
-                if(A[j] >= A[i]){
-                    max = Math.max(j - i, max);
+                if(A[j] <= A[i]){
+                    max = Math.max(i - j, max);
                     break;
                 }
             }
