@@ -1,0 +1,27 @@
+区别
+类适配器：对象继承的方式，静态的定义。
+
+对象适配器：依赖于对象的组合，都是采用对象组合的方式，也就是对象适配器实现的方式。
+JDK 中的适配器使用
+使用适配器模式的类
+
+java.util.Arrays.asList()
+java.io.InputStreamReader(InputStream)
+java.io.OutputStreamWriter(OutputStream)
+
+Java I/O 库大量使用了适配器模式，如 ByteArrayInputStream 是一个适配器类，它继承了 InputStream 的接口，并且封装了一个 byte 数组。换言之，它将一个 byte 数组的接口适配成 InputStream 流处理器的接口。
+
+在 OutputStream 类型中，所有的原始流处理器都是适配器类。ByteArrayOutputStream 继承了 OutputStream 类型，同时持有一个对 byte 数组的引用。它一个 byte 数组的接口适配成 OutputString 类型的接口，因此也是一个对象形式的适配器模式的应用。
+
+FileOutputStream 继承了 OutputStream 类型，同时持有一个对 FileDiscriptor 对象的引用。这是一个将 FileDiscriptor 接口适配成 OutputStream 接口形式的对象型适配器模式。
+
+Reader 类型的原始流处理器都是适配器模式的应用。StringReader 是一个适配器类，StringReader 类继承了 Reader 类型，持有一个对 String 对象的引用。它将 String 的接口适配成 Reader 类型的接口。
+
+Spring 中使用适配器模式的典型应用
+在 Spring 的 AOP 里通过使用的 Advice（通知）来增强被代理类的功能。Spring 实现这一 AOP 功能的原理就使用代理模式（1、JDK 动态代理。2、CGLib 字节码生成技术代理。）对类进行方法级别的切面增强，
+
+即，生成被代理类的代理类，并在代理类的方法前，设置拦截器，通过执行拦截器中的内容增强了代理方法的功能，实现的面向切面编程。
+
+Advice（通知）的类型有：BeforeAdvice、AfterReturningAdvice、ThrowSadvice 等。
+
+每个类型 Advice（通知）都有对应的拦截器，MethodBeforeAdviceInterceptor、AfterReturningAdviceInterceptor、ThrowsAdviceInterceptor。Spring 需要将每个 Advice（通知）都封装成对应的拦截器类型，返回给容器，所以需要使用适配器模式对 Advice 进行转换。
