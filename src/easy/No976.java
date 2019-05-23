@@ -3,7 +3,7 @@ package easy;
 import java.util.Arrays;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-01-17 22:27
  */
 public class No976 {

@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.*;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-29 14:45
  */
 public class No791 {

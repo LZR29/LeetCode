@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.StringReader;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-05 22:53
  */
 public class MemoryInput {

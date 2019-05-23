@@ -1,7 +1,7 @@
 package medium;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-16 14:53
  */
 public class No200 {

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-10 19:58
  */
 public class No179 {

@@ -1,7 +1,7 @@
 package designpatterns.adapter;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-16 13:18
  * 二相转三相的插座适配器
  * 组合方式

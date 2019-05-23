@@ -1,7 +1,7 @@
 package designpatterns.singleton;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-15 22:21
  * 懒汉式（登记式/静态内部类方式）
  * 静态内部实现的单例是懒加载的且线程安全。

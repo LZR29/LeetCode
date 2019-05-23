@@ -3,7 +3,7 @@ package sort;
 import java.util.Arrays;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-04 21:21
  * 选择，冒泡，插入排序算法。
  */

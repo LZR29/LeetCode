@@ -1,7 +1,7 @@
 package contest117;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-30 10:33
  */
 public class Univalued_Binary_Tree {

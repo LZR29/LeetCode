@@ -1,7 +1,7 @@
 package thread;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-03 16:19
  */
 public class MyThread extends Thread {

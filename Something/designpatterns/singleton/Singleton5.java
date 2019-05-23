@@ -1,6 +1,6 @@
 package designpatterns.singleton;
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-15 21:47
  * 饿汉式（枚举方式）
  * 这种实现方式还没有被广泛采用，但这是实现单例模式的最佳方法。

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-03 20:27
  */
 public class Gas_Station {

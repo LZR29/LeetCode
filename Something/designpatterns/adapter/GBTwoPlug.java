@@ -1,7 +1,7 @@
 package designpatterns.adapter;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-16 13:16
  */
 public class GBTwoPlug {

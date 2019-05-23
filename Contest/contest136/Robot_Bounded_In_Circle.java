@@ -1,7 +1,7 @@
 package contest136;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-05-12 10:30
  */
 public class Robot_Bounded_In_Circle {

@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.function.BinaryOperator;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-23 15:29
  */
 public class No556 {

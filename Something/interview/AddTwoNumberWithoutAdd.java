@@ -1,7 +1,7 @@
 package interview;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-03 20:52
  */
 public class AddTwoNumberWithoutAdd {

@@ -1,7 +1,7 @@
 package designpatterns.singleton;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-15 21:47
  * 单例模式Singleton
  * 作用：保证整个应用程序中某个实例有且只有一个

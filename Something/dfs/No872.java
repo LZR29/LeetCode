@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-14 21:40
  */
 public class No872 {

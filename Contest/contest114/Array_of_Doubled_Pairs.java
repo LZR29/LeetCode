@@ -3,7 +3,7 @@ package contest114;
 import java.util.*;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-09 11:03
  * wrong answer!!!!!!
  */

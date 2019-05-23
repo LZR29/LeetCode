@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-01-27 10:36
  */
 public class No984 {

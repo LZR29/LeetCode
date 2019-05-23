@@ -1,7 +1,7 @@
 package test;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-10 13:23
  */
 public class RandomListNode {

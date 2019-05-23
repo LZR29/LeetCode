@@ -1,7 +1,7 @@
 package contest131;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-07 10:30
  */
 public class Remove_Outermost_Parentheses {

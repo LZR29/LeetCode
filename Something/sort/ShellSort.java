@@ -3,7 +3,7 @@ package sort;
 import java.util.Arrays;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-04 22:56
  */
 public class ShellSort {

@@ -1,7 +1,7 @@
 package designpatterns.adapter;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-16 13:19
  * 采用继承方式的插座适配器
  */

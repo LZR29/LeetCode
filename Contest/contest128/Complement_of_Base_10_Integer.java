@@ -1,7 +1,7 @@
 package contest128;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-17 10:41
  */
 public class Complement_of_Base_10_Integer {

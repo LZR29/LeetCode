@@ -5,7 +5,7 @@ import java.util.concurrent.Future;
 import java.util.concurrent.FutureTask;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-03 16:48
  */
 public class FutureTaskDemo {

@@ -1,7 +1,7 @@
 package easy;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-07 9:32
  */
 public class No696 {

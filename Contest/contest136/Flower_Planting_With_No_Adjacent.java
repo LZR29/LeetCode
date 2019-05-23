@@ -3,7 +3,7 @@ package contest136;
 import java.util.*;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-05-12 10:56
  */
 public class Flower_Planting_With_No_Adjacent {

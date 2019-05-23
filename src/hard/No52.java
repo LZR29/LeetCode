@@ -3,7 +3,7 @@ package hard;
 import java.util.Date;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-20 10:03
  */
 public class No52 {

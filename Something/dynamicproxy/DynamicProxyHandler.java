@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-13 15:15
  */
 public class DynamicProxyHandler implements InvocationHandler {

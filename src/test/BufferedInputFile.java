@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-05 22:39
  */
 public class BufferedInputFile {

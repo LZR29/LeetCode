@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-30 10:39
  */
 public class Numbers_With_Same_Consecutive_Differences {

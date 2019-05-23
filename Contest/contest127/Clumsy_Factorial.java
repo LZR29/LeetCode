@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-10 10:46
  */
 public class Clumsy_Factorial {

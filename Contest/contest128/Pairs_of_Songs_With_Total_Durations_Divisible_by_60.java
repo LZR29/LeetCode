@@ -1,7 +1,7 @@
 package contest128;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-17 10:31
  */
 public class Pairs_of_Songs_With_Total_Durations_Divisible_by_60 {

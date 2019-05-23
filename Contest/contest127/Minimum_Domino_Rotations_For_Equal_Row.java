@@ -1,7 +1,7 @@
 package contest127;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-10 12:36
  */
 public class Minimum_Domino_Rotations_For_Equal_Row {

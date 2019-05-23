@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-03 9:55
  * 编写一个算法来判断一个数是不是“快乐数”。
  *

@@ -3,7 +3,7 @@ package medium;
 import java.util.PriorityQueue;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-15 13:10
  */
 public class No215 {

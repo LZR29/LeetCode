@@ -3,7 +3,7 @@ package thread;
 import java.util.concurrent.*;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-03 16:55
  */
 public class ThreadPoolDemo {

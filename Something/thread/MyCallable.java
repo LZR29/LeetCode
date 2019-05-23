@@ -3,7 +3,7 @@ package thread;
 import java.util.concurrent.Callable;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-03 16:43
  */
 public class MyCallable implements Callable<String> {

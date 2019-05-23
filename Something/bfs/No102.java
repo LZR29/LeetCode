@@ -5,7 +5,7 @@ import easy.TreeNode;
 import java.util.*;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-16 13:48
  */
 public class No102 {

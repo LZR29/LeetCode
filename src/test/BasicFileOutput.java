@@ -3,7 +3,7 @@ package test;
 import java.io.*;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-05 23:09
  */
 public class BasicFileOutput {

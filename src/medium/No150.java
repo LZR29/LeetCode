@@ -3,7 +3,7 @@ package medium;
 import java.util.Stack;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-23 11:01
  */
 public class No150 {

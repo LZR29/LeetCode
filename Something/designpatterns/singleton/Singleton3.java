@@ -1,7 +1,7 @@
 package designpatterns.singleton;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-15 22:15
  * 懒汉式(双重检查加锁版本)
  * 利用双重检查加锁（double-checked locking），

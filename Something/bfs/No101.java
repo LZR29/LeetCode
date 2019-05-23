@@ -3,7 +3,7 @@ package bfs;
 import easy.TreeNode;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-15 22:10
  */
 public class No101 {

@@ -1,7 +1,7 @@
 package contest116;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-23 10:43
  */
 public class Maximum_Width_Ramp {

@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-07 11:12
  */
 public class Sum_of_Root_To_Leaf_Binary_Numbers {

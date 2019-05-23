@@ -1,7 +1,7 @@
 package test;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-06 16:31
  */
 public class Solution {

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-31 10:30
  */
 public class Binary_Prefix_Divisible_By_5 {

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-02 10:31
  */
 public class Largest_Time_for_Given_Digits {

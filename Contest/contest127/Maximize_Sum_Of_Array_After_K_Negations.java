@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-10 10:31
  */
 public class Maximize_Sum_Of_Array_After_K_Negations {

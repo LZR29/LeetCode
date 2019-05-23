@@ -3,7 +3,7 @@ package dfs;
 import easy.TreeNode;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-14 20:24
  */
 public class No100 {

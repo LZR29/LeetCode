@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-16 10:32
  */
 public class Check_Completeness_of_a_Binary_Tree {

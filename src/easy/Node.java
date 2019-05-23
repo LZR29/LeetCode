@@ -3,7 +3,7 @@ package easy;
 import java.util.List;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-19 12:56
  */
 public class Node {

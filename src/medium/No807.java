@@ -3,7 +3,7 @@ package medium;
 import java.util.Arrays;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-28 9:14
  */
 public class No807 {

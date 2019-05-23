@@ -1,7 +1,7 @@
 package contest126;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-03 10:55
  */
 public class Check_If_Word_Is_Valid_After_Substitutions {

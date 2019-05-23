@@ -1,7 +1,7 @@
 package designpatterns.singleton;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-15 22:26
  */
 public class Test {

@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-23 10:35
  */
 public class N_Repeated_Element_in_Size_2N_Array {

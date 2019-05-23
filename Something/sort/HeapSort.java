@@ -3,7 +3,7 @@ package sort;
 import java.util.Arrays;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-05 20:35
  * 堆排序，数组分成二叉堆（大顶堆（升序），小顶堆（降序））
  */

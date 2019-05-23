@@ -1,7 +1,7 @@
 package dynamicproxy;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-13 15:18
  */
 public class RealObject implements Interface {

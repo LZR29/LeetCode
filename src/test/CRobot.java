@@ -1,7 +1,7 @@
 package test;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-02 23:38
  */
 public class CRobot{

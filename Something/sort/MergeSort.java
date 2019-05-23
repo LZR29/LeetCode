@@ -3,7 +3,7 @@ package sort;
 import java.util.Arrays;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-06 22:58
  * 归并排序
  */

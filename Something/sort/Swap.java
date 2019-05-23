@@ -1,7 +1,7 @@
 package sort;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-04 21:17
  */
 public class Swap {

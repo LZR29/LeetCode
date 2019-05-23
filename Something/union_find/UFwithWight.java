@@ -1,7 +1,7 @@
 package union_find;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-02-28 15:30
  * 加权union-find算法---quick-union算法
  */

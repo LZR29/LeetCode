@@ -1,7 +1,7 @@
 package contest125;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-02-24 10:41
  */
 public class Find_the_Town_Judge {

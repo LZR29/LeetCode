@@ -4,7 +4,7 @@ package sort;
 import java.util.Arrays;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-03-06 23:22
  * 快速排序  http://www.cnblogs.com/chengxiao/p/6262208.html
  */

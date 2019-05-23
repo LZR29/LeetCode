@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-21 14:41
  */
 public class Matrix_Cells_in_Distance_Order {

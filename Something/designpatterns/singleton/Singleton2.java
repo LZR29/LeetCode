@@ -1,7 +1,7 @@
 package designpatterns.singleton;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-15 22:10
  * 懒汉模式（非线程安全版本）
  * 所谓 “ 懒汉式” 就是说单例实例在第一次被使用时构建，而不是在JVM在加载这个类时就马上创建此唯一的单例实例。

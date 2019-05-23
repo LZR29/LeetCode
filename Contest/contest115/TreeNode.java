@@ -1,7 +1,7 @@
 package contest115;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-16 10:33
  */
 public class TreeNode {

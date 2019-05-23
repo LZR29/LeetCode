@@ -5,7 +5,7 @@ import java.io.Reader;
 import java.lang.reflect.Proxy;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2019-04-13 15:08
  */
 public class DynamicProxyDemo {

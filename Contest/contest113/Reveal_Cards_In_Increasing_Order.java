@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @authoor linzerong
+ * @author linzerong
  * @create 2018-12-02 13:45
  */
 public class Reveal_Cards_In_Increasing_Order {
