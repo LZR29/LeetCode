@@ -28,4 +28,24 @@ public class No714 {
 		System.out.println(maxProfit(prices, fee));
 	}
 
+    /**
+    * 使用穷举框架，状态机
+    */
+    public int maxProfit2(int[] prices, int fee) {
+        int n = prices.length;
+        if (n <= 1){
+           return 0;
+        }
+        int[][] dp = new int[n][2];
+         for (int i = 0; i < n; i++) {
+             if (i == 0){
+                 dp[i][0] = 0;
+                 dp[i][1] = -prices[i];
+                 continue;
+             }
+             dp[i][0] = Math.max(dp[i-1][0], dp[i-1][1] + prices[i] - fee);
+             dp[i][1] = Math.max(dp[i-1][1], dp[i-1][0] - prices[i]);
+         }
+         return dp[n-1][0];
+    }
 }
