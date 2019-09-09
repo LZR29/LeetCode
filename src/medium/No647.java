@@ -2,32 +2,27 @@ package medium;
 
 public class No647 {
 	
-	public static boolean palindromic(char[] chars,int start,int end) {
-		while(start < end) {
-			if(chars[start++] != chars[end--]) {
-				return false;
-			}
+	public int palindromic(char[] chars,int left,int right) {
+		int count = 0;
+		while (left >= 0 && right < chars.length && chars[left] == chars[right]){
+			left--;
+			right++;
+			count++;
 		}
-		return true;
+		return count;
 	}
 	
-	public static int countSubstrings(String s) {
+	public int countSubstrings(String s) {
         int count = 0;
         char[] chars = s.toCharArray();
         int len = s.length();
         for(int i = 0; i < len; i++) {
-        	for(int j = i; j < len; j++) {
-        		if (palindromic(chars, i, j)) {
-					count++;
-				}
-        	}
+        	count += palindromic(chars, i, i);
+        	count += palindromic(chars, i, i+1);
         }
         return count;
     }
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println(countSubstrings("abc"));
-	}
+
 
 }

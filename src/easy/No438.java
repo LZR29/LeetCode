@@ -1,8 +1,6 @@
 package easy;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class No438 {
 	
@@ -37,7 +35,43 @@ public class No438 {
         }
         return ans;
     }
-	
+
+    public List<Integer> findAnagrams2(String s, String p) {
+        List<Integer> ans = new ArrayList<>();
+        Map<Character, Integer> needs = new HashMap<>();
+        Map<Character, Integer> win = new HashMap<>();
+        for (int i = 0; i < p.length(); i++) {
+            needs.put(p.charAt(i), needs.getOrDefault(p.charAt(i), 0)+1);
+        }
+        int match = 0;
+        int allMatch = needs.size();
+        int left = 0;
+        int right = 0;
+        for(; right < s.length(); right++){
+            if(needs.containsKey(s.charAt(right))){
+                win.put(s.charAt(right), win.getOrDefault(s.charAt(right), 0)+1);
+                if(needs.get(s.charAt(right)).equals(win.get(s.charAt(right)))){
+                    match++;
+                }
+            }
+            while (match == allMatch) {
+                if(right - left + 1 == p.length()){
+                    //匹配
+                    ans.add(left);
+                }
+                if(needs.containsKey(s.charAt(left))){
+                    win.put(s.charAt(left), win.get(s.charAt(left))-1);
+                    if(win.get(s.charAt(left)).intValue() < needs.get(s.charAt(left))){
+                        match--;
+                    }
+                }
+                left++;
+            }
+        }
+        return ans;
+    }
+
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<Integer> list ;
