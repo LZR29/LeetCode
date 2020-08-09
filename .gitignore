@@ -1,0 +1,9 @@
+*.code-workspace
+.vscode
+.idea
+out
+debug
+/log
+/.settings
+/.project
+LeetCode.iml
